@@ -1,0 +1,1 @@
+#The 'null script' is a workaround for starting the Command Line Interface (CLI) without interfering with any other processes. As a result, a blank script called 'null script' is used to launch CLI in the background and allow commands to be executed. Without this option, the CLI instantiation prevents the python script processes from running.
